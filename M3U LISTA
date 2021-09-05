@@ -1,0 +1,161 @@
+# EXTM3U
+ 
+#EXTINF: -1, Canal 26 (Argentina)
+http://200.115.193.177/live/26hd-720/.m3u8
+ 
+#EXTINF: -1, Canal Telemax HD (Argentina)
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+ 
+#EXTINF: -1, RetroPlus Tv 1 (Musica 80s, 70s en Inglés)
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+ 
+#EXTINF: -1, RetroPlus Tv 2 (Musica 80s, 70s en Español)
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+ 
+#EXTINF: -1, Vh1 Classic (Música de los 80)
+https://cdn.bitmovin.com/player/web/8/bitmovinplayer-ui.css
+ 
+#EXTINF: -1 tvg-id = "156" tvg-name = "+ Listas en M3U.CL" tvg-logo = "https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U .CL * | CL
+https://vdo1.streamgato.us:3776/stream/play.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "1" tvg-name = "Rebobinar TV" tvg-logo = "https://www.m3u.cl/logo/1_Rewind_TV.png", Rebobinar TV * | CL
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "796" tvg-name = "Euro Indie Music" tvg-logo = "https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music * | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "4" tvg-name = "Retro Plus TV" tvg-logo = "https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV * | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "521" tvg-name = "Recuerdos Retro Radio TV" tvg-logo = "https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV * | CL
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "5" tvg-name = "Retro Plus TV Señal 2" tvg-logo = "https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 * | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "13" tvg-name = "Ruidos TV" tvg-logo = "https://www.m3u.cl/logo/13_Ruidos_TV.png", Ruidos TV * | CL
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "14" tvg-name = "Urban TV" tvg-logo = "https://www.m3u.cl/logo/14_Urban_TV.png", Urban TV * | ES
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "6" tvg-name = "Mix 24-7 VdjMix Retro" tvg-logo = "https://www.m3u.cl/logo/6_Mix_24_7_VdjMix_Retro.png", Mix 24-7 VdjMix Retro * | CL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/1.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "26" tvg-name = "RCKTV" tvg-logo = "https://www.m3u.cl/logo/26_RCKTV.png", RCKTV * | CL
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "2" tvg-name = "Zapping Music" tvg-logo = "https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music * | CL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "20" tvg-name = "En Radio Kpop" tvg-logo = "https://www.m3u.cl/logo/20_On_Radio_Kpop.png", En Radio Kpop * | CL
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "769" tvg-name = "Radioteca WebStereo" tvg-logo = "https://www.m3u.cl/logo/769_Radioteca_WebStereo.webp", Radioteca WebStereo * | CL
+https://tvstreaming.cl:1936/8042/8042/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "771" tvg-name = "Mundo de la Música TV" tvg-logo = "https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Música TV * | CL
+https://593b04c4c5670.streamlock.net:443/8018/8018/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "782" tvg-name = "Sexy Kpop TV" tvg-logo = "https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Sexy Kpop TV * | BR
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "785" tvg-name = "Re7" tvg-logo = "https://www.m3u.cl/logo/785_Re7.png", Re7 * | CL
+https://vdo.mivideo.pro:3446/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "889" tvg-name = "La Sabrosura TV" tvg-logo = "https://www.m3u.cl/logo/889_La_Sabrosura_TV.png", La Sabrosura TV * | CL
+https://5eff35271151c.streamlock.net:1936/8096/8096/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "3" tvg-name = "XTV Music" tvg-logo = "https://www.m3u.cl/logo/3_XTV_Music.png", XTV Music | CL
+https://tls-cl.cdnz.cl/xtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "10" tvg-name = "Mix 24-7 Global Hits" tvg-logo = "https://www.m3u.cl/logo/10_Mix_24_7_Global_Hits.png", Mix 24-7 Éxitos globales | CL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/5.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "11" tvg-name = "Mix 24-7 VdjMix Pop" tvg-logo = "https://www.m3u.cl/logo/11_Mix_24_7_VdjMix_Pop.png", Mix 24-7 VdjMix Pop | CL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/6.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "9" tvg-name = "Mix 24-7 Retro" tvg-logo = "https://www.m3u.cl/logo/9_Mix_24_7_Retro.png", Mix 24-7 Retro | CL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/4.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "7" tvg-name = "Mix 24-7 Top 100" tvg-logo = "https://www.m3u.cl/logo/7_Mix_24_7_Top_100.png", Mix 24-7 Top 100 | CL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/2.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "8" tvg-name = "Mix 24-7 Tropical" tvg-logo = "https://www.m3u.cl/logo/8_Mix_24_7_Tropical.png", Mix 24-7 Tropical | CL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/3.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "469" tvg-name = "Mix 24-7 Conciertos" tvg-logo = "https://www.m3u.cl/logo/469_Mix_24_7_Conciertos.png", Mix 24-7 Conciertos | CL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/7.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "468" tvg-name = "Mix 24-7 Puro Rock" tvg-logo = "https://www.m3u.cl/logo/468_Mix_24_7_Puro_Rock.png", Mix 24-7 Puro Rock | CL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/25.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "31" tvg-name = "Portal FoxMix" tvg-logo = "https://www.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix | CL
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "21" tvg-name = "Televisión de música retro" tvg-logo = "https://www.m3u.cl/logo/21_Retro_Music_Television.png", Televisión de música retro | CZ
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "32" tvg-name = "Alegria TV" tvg-logo = "https://www.m3u.cl/logo/32_Alegria_TV.png", Alegria TV | CL
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "27" tvg-name = "Carolina TV" tvg-logo = "https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | CL
+https://unlimited1-cl-movistar.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "37" tvg-name = "Canal 38" tvg-logo = "https://www.m3u.cl/logo/37_Canal_38.png", Canal 38 | CR
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "16" tvg-name = "Conecta TV" tvg-logo = "https://www.m3u.cl/logo/16_Conecta_TV.png", Conecta TV | MX
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "18" tvg-name = "Corazón Llanero" tvg-logo = "https://www.m3u.cl/logo/18_Corazon_Llanero.png", Corazón Llanero | VE
+https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "15" tvg-name = "Eurolatina TV" tvg-logo = "https://www.m3u.cl/logo/15_Eurolatina_TV.jpg", Eurolatina TV | ES
+https://cdn01.yowi.tv/ZM1I2N6F9E/master.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "30" tvg-name = "Ibiza Global TV" tvg-logo = "https://www.m3u.cl/logo/30_Ibiza_Global_TV.png", Ibiza Global TV | ES
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "23" tvg-name = "m2o TV" tvg-logo = "https://www.m3u.cl/logo/23_m2o_TV.png", m2o TV | ESO
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "33" tvg-name = "Maxima FM" tvg-logo = "https://www.m3u.cl/logo/33_Maxima_FM.png", Maxima FM | CL
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "24" tvg-name = "Top de música" tvg-logo = "https://www.m3u.cl/logo/24_Music_Top.png", Top de música | Arkansas
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "17" tvg-name = "El Canal Retro" tvg-logo = "https://www.m3u.cl/logo/17_The_Retro_Channel.png", El Canal Retro | PR
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "25" tvg-name = "TuTv Quillota" tvg-logo = "https://www.m3u.cl/logo/25_TuTv_Quillota.png", TuTv Quillota | CL
+https://tvstreaming.cl:1936/9570/9570/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "34" tvg-name = "TV vconline.cl" tvg-logo = "https://www.m3u.cl/logo/34_TV_vconline_cl.png", TV vconline.cl | CL
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "29" tvg-name = "DJ Loncho TV" tvg-logo = "https://www.m3u.cl/logo/29_DJ_Loncho_TV.png", DJ Loncho TV | CL
+https://srv1.zcast.com.br/alonso4166/alonso4166/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "28" tvg-name = "Televisión natural" tvg-logo = "https://www.m3u.cl/logo/28_Natural_TV.png", Televisión natural | CL
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "19" tvg-name = "TV Exitos" tvg-logo = "https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos | HACER
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "22" tvg-name = "Canal de recorrido en video" tvg-logo = "https://www.m3u.cl/logo/22_Video_Tour_Channel.png", Canal de recorrido en video | CR
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "36" tvg-name = "Telemusica" tvg-logo = "https://www.m3u.cl/logo/36_Telemusica.png", Telemusica | CO
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "35" tvg-name = "TOP Latino TV" tvg-logo = "https://www.m3u.cl/logo/35_TOP_Latino_TV.png", TOP Latino TV | EDUCACIÓN FÍSICA
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "39" tvg-name = "Karibeña TV" tvg-logo = "https://www.m3u.cl/logo/39_Karibena_TV.jpg", Karibeña TV | EDUCACIÓN FÍSICA
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "38" tvg-name = "Mejor música por cable" tvg-logo = "https://www.m3u.cl/logo/38_Best_Cable_Music.jpg", Mejor música por cable | EDUCACIÓN FÍSICA
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "41" tvg-name = "Hatun TV" tvg-logo = "https://www.m3u.cl/logo/41_Hatun_TV.jpg", Hatun TV | EDUCACIÓN FÍSICA
+https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "40" tvg-name = "Mas Cumbia" tvg-logo = "https://www.m3u.cl/logo/40_Mas_Cumbia.png", Mas Cumbia | EDUCACIÓN FÍSICA
+https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "43" tvg-name = "Turbo Mix TV" tvg-logo = "https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV | EDUCACIÓN FÍSICA
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "112" tvg-name = "Amordiscos TV" tvg-logo = "https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV | CO
+https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "847" tvg-name = "Tango TV" tvg-logo = "https://www.m3u.cl/logo/847_Tango_TV.png", Tango TV | Arkansas
+https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "849" tvg-name = "High Music" tvg-logo = "https://www.m3u.cl/logo/849_High_Music.jpg", High Music | CL
+http://96.30.193.226:81/hls/highmusic.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "876" tvg-name = "Vision Musica TV" tvg-logo = "https://www.m3u.cl/logo/876_Vision_Musica_TV.png", Vision Musica TV | EDUCACIÓN FÍSICA
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "887" tvg-name = "Hits 360" tvg-logo = "https://www.m3u.cl/logo/887_Hits_360.png", Hits 360 | HACER
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "893" tvg-name = "Complejo Dance" tvg-logo = "https://www.m3u.cl/logo/893_Complejo_Dance.png", Complejo Dance | Arkansas
+https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "904" tvg-name = "Latin Zone TV" tvg-logo = "https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV | nosotros
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "911" tvg-name = "Dj Mao TV" tvg-logo = "https://www.m3u.cl/logo/911_Dj_Mao_TV.png", Dj Mao TV | CR
+https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "925" tvg-name = "Nubeh TV" tvg-logo = "https://www.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV | VE
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "926" tvg-name = "Red Oxigeno" tvg-logo = "https://www.m3u.cl/logo/926_Oxigeno_Network.png", Red Oxigeno | VE
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "924" tvg-name = "Panavision" tvg-logo = "https://www.m3u.cl/logo/924_Panavision.png", Panavision | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "929" tvg-name = "Italianissimo" tvg-logo = "https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "955" tvg-name = "MCRT 80s" tvg-logo = "https://www.m3u.cl/logo/955_MCRT_80s.png", MCRT 80s | California
+https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "949" tvg-name = "MCRT Banda" tvg-logo = "https://www.m3u.cl/logo/949_MCRT_Banda.png", MCRT Banda | California
+https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "950" tvg-name = "MCRT Cristiana" tvg-logo = "https://www.m3u.cl/logo/950_MCRT_Cristiana.png", MCRT Cristiana | California
+https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "952" tvg-name = "MCRT En Español" tvg-logo = "https://www.m3u.cl/logo/952_MCRT_En_Espanol.png", MCRT En Español | California
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "951" tvg-name = "MCRT GYM" tvg-logo = "https://www.m3u.cl/logo/951_MCRT_GYM.png", MCRT GYM | California
+https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "953" tvg-name = "MCRT Reggaeton" tvg-logo = "https://www.m3u.cl/logo/953_MCRT_Reggaeton.png", MCRT Reggaeton | California
+https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "954" tvg-name = "MCRT Top Hits" tvg-logo = "https://www.m3u.cl/logo/954_MCRT_Top_Hits.png", MCRT Top Hits | California
+https://stmv.negotv.com/top2021/top2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "966" tvg-name = "Vox TV" tvg-logo = "https://www.m3u.cl/logo/966_Vox_TV.png", Vox TV | CL
+https://live01.hablaip.com:1936/9071/9071/playlist.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id = "968" tvg-name = "Contivision Musica" tvg-logo = "https://www.m3u.cl/logo/968_Contivision_Musica.png", Contivision Musica | CL
+https://unlimited2-cl-movistar.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL
